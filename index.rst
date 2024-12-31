@@ -1,10 +1,10 @@
-RMF 2.0 - RMF Industrial 
+IOCS Handbook 
 =========================
 
 Introduction
 -----------------
 
-RMF Industrial project aims bring RMF into the manufacturing and logistics space.
+IOCS Handbook is the proto handbook for RMF2.0 documenatation on a concrete logistics example.
 Significant changes have been made, to RMF1.0, that enables RMF Industrial (RMF2.0)
    - Introduction of Fiware
    - Introduction of VDA5050 MQTT
