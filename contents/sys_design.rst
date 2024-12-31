@@ -1,3 +1,3 @@
-Systems Integration and Test Approach
+Systems Design - Architecture
 ====================================
 
