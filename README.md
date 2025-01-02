@@ -2,5 +2,6 @@
 Integrated Operational Control System Handbook
 
 Link to published site here:
-https://github.com/timityjoe/iocs-handbook
+https://iocs-handbook.readthedocs.io/en/latest/
+
 
