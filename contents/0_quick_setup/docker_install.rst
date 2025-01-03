@@ -1,4 +1,4 @@
 =======================
-Multi Agent Path Finder
+Installation - Docker
 =======================
 

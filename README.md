@@ -10,7 +10,7 @@ pip install -r requirements.txt
 sudo apt install python3-sphinx
 pip install sphinx-rtd-theme
 pip install sphinxcontrib-video
- pip install sphinxcontrib-bibtex
+pip install sphinxcontrib-bibtex
 
 
 # Run the raw sphinx-build command

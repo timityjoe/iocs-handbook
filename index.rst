@@ -1,5 +1,6 @@
+===============
 IOCS Handbook  
-=============================
+===============
 .. video:: videos/lt_video_segment.mp4
     :nocontrols:
     :autoplay:
@@ -16,69 +17,32 @@ Significant changes have been made, to RMF1.0, that enables RMF Industrial (RMF2
 - Introduction of VDA5050 MQTT
 - Introduction of Unreal Engine 5
 
-Quick Setup and Installation (Docker) 
+Quick Setup - Docker
 ------------------------------------------------
+   :doc:`Quick Setup - Docker Installation <./contents/0_quick_setup/docker_install>` 
 
-Quick Setup and Installation (From source)  
+Quick Setup - From source
 ------------------------------------------------
+   :doc:`Quick Setup - Source Installation <./contents/0_quick_setup/source_install>` 
 
-Quick Setup Verification  
+Quick Setup - Verification  
 --------------------------------
+   :doc:`Quick Setup - Verification <./contents/0_quick_setup/quick_verification>` 
 
 
-IOCS Systems Design & Architecture  
-=====================================
-   :doc:`Systems Design - Overall Architecture <./contents/2_systems_design/sys_design>` 
-   :doc:`Systems Design - Information Technology Architecture <./contents/2_systems_design/sys_it_design>` 
 
-
-IOCS Systems Integration, V&V
-===============================
-   :doc:`Systems Integration and Test Approach <./contents/3_systems_integration/sys_integrations>`
-
-
-IOCS Subsystem Modules  
-=============================
-Higher Guidance  
---------------------------------
-   :doc:`Task Generator <./contents/4_subsystems/robot_task_generator>` 
-   :doc:`Task Scheduler <./contents/4_subsystems/robot_task_scheduler>` 
-
-Lower Guidance  
---------------------------------
-   :doc:`Task Orchestrator <./contents/4_subsystems/task_orchestrator>` 
-
-IOCS Services  
-----------------
-   :doc:`Multi Agent Path Finder <./contents/4_subsystems/mapf>` 
-
-
-Content
--------
-.. toctree::
-   :maxdepth: 2
-   :caption: IOCS Systems Design
-   :hidden:
-
-   contents/2_systems_design/sys_design
-   contents/2_systems_design/sys_it_design
 
 .. toctree::
    :maxdepth: 2
-   :caption: IOCS Systems Integration
+   :caption: IOCS Handbook Contents
    :hidden:
+   :titlesonly:
 
-   contents/3_systems_integration/sys_integrations
-
-.. toctree::
-   :maxdepth: 2
-   :caption: IOCS Subsystems
-   :hidden:
-
-   contents/4_subsystems/robot_task_generator
-   contents/4_subsystems/robot_task_scheduler
-   contents/4_subsystems/task_orchestrator
-   contents/4_subsystems/mapf
+   contents/0_quick_setup/index
+   contents/2_systems_design/index
+   contents/3_systems_integration/index
+   contents/4_subsystems/index
+   contents/5_simulation/index
 
 .. toctree::
    :maxdepth: 2
