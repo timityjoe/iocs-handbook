@@ -92,6 +92,24 @@ Module Installation
      cd model-20240830-1321
      sudo docker compose -f compose.dev.yaml up -d
 
+   Register Data model via the `IOCS GUI <http://localhost:8000/proxy-server>`_
+
+   1. Scroll down to default and press on **GET /context/sink** to see the available data sinks
+   2. Go to **Data Entity DataTypePipeline** and use the **POST /context/config** to add a data model
+
+   .. code-block:: bash
+
+     {
+        "id": "Task",
+        "sink": [
+        "ngsi-v2"        
+        ],
+        "context": [
+        ]
+    }
+
+
+
 3. Setup Tumuxinator
 
    Copy the tmux config file to the correct directory:
