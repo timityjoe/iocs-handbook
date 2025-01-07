@@ -10,4 +10,3 @@ Installation
    docker_install
    source_install
    quick_verification
-   logistech_demo_install
