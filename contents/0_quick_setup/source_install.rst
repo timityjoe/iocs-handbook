@@ -1,7 +1,4 @@
-=======================
-Installation - Source
-=======================
-
+=======
 Source Code structure for IOCS
 ==============================
 
