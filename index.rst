@@ -17,17 +17,22 @@ Significant changes have been made, to RMF1.0, that enables RMF Industrial (RMF2
 - Introduction of VDA5050 MQTT
 - Introduction of Unreal Engine 5
 
-Quick Setup - Docker
+Quick Setup
 ------------------------------------------------
-   :doc:`Quick Setup - Docker Installation <./contents/0_quick_setup/docker_install>` 
+| :doc:`IOCS Core Broker <./contents/0_quick_setup/1_iocs_broker_install>`  
+| :doc:`IOCS Dashboard <./contents/0_quick_setup/2_iocs_dashboard_install>` 
+| :doc:`IOCS Robot Task Generator & Scheduler <./contents/0_quick_setup/3_iocs_scheduler_install>` 
+| :doc:`IOCS Robot Execution System <./contents/0_quick_setup/4_iocs_res_install>` 
+| :doc:`IOCS Device Adapter <./contents/0_quick_setup/5_iocs_device_adapter_install>`  
+| :doc:`IOCS Simulator <./contents/0_quick_setup/6_iocs_simulator_install>`   
 
-Quick Setup - From source
+Putting It All Together - Demonstration Scenario
 ------------------------------------------------
-   :doc:`Quick Setup - Source Installation <./contents/0_quick_setup/source_install>` 
+   :doc:`Demonstration Scenario <./contents/0_quick_setup/demo_install>` 
 
-Quick Setup - Verification  
+Quick Verification 
 --------------------------------
-   :doc:`Quick Setup - Verification <./contents/0_quick_setup/quick_verification>` 
+   :doc:`Quick Verification <./contents/0_quick_setup/quick_verification>` 
 
 
 
@@ -40,9 +45,10 @@ Quick Setup - Verification
 
    contents/0_quick_setup/index
    contents/2_systems_design/index
-   contents/3_systems_integration/index
-   contents/4_subsystems/index
+   contents/3_subsystems/index
+   contents/4_systems_integration/index
    contents/5_simulation/index
+   contents/6_CI_CD/index
 
 .. toctree::
    :maxdepth: 2

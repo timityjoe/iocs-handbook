@@ -1,5 +1,5 @@
 ==========================================================
-IOCS Systems Integration, Verification & Validation
+IOCS Integration, Verification & Validation
 ==========================================================
 
 .. toctree::

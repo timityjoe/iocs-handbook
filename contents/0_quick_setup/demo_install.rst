@@ -1,8 +1,9 @@
-===============================
-Installation - Demo
-===============================
+=================================================
+Putting it all together - Demonstration Scenario
+=================================================
 
 This guide outlines how to install and configure the UE5 Simulation, integrated with the IOCS (Context Broker), Task Orchestrator, Templated Action Nodes, and Dashboard GUI.
+
 
 Prerequisites
 ------------------
