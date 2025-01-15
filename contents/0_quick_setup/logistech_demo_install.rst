@@ -2,7 +2,7 @@
 Installation - Demo
 ===============================
 
-This guide outlines how to install and configure the Logis-Tech UE5 Simulation, integrated with the IOCS (Context Broker), Task Orchestrator, Templated Action Nodes, and Dashboard GUI.
+This guide outlines how to install and configure the UE5 Simulation, integrated with the IOCS (Context Broker), Task Orchestrator, Templated Action Nodes, and Dashboard GUI.
 
 Prerequisites
 ------------------
